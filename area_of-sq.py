@@ -1,0 +1,8 @@
+#get the lenght from the user
+#length = float (input("Enter the length of the square: "))
+
+#calculate and store the area in a variable, area = length * length
+#area = length * length
+#print the calculated area to the terminal
+#print (f"the calculated area is  {area}")
+
